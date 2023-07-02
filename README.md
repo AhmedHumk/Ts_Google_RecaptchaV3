@@ -3,7 +3,7 @@
 
 ### Usage of Google recaptcha V3 in typeScript 👋
 
-😄 its not a big deal its just a reference since I have been asked on my tiktok livestream many questions about how to integrate the **Google Re-Captcha v3** in there typescript project and how to validate them through any type of backend. 
+😄 its not a big deal its just a reference since I have been asked on my tiktok livestream many questions about how to integrate the **Google Re-Captcha v3** in there typescript project and how to validate them through any type of backend. in this example i considered php as my backend.
 
 if you are an alien and wonder what is google Re-Captcha ? then take a look at there website https://www.google.com/recaptcha/about/ 
 
