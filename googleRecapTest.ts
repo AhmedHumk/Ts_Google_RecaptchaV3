@@ -20,9 +20,6 @@ function initrecaptcha() {
             // Submit the form
             const form = document.getElementById('signup-form') as HTMLFormElement;
             form.submit();
-
-            // Now you can submit the form or send an AJAX request with the form data
-            // e.target.submit();
         });
     });    
 }
