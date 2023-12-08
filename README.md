@@ -18,12 +18,14 @@ Edit those files with your **Google Re-Captcha site key**
  - **recaptest.php** `<--- note this could be your backend`
 
 **googleRecapTest.ts**  change `const  sitekey  =  "[Your site key]";` with your **google Site key.**
-eg : `const  sitekey  =  "xxxxxxxxxxxxx";`
+eg : 
+`const  sitekey  =  "xxxxxxxxxxxxx";`
 
 **do the same to your html script renderer** 
 `<script  src="https://www.google.com/recaptcha/api.js?render=[Your Site Key]"></script>`
 
  **recaptest.php** change `$securitykey = '[You Securiy Key]';` with your **google re-captcha security key.**
-eg :  `$securitykey = 'xxxxxxxxxxxxxx';`
+eg :  
+`$securitykey = 'xxxxxxxxxxxxxx';`
 
 and you are ready to go. any questions follow me on **tiktok: @pureminforever**
